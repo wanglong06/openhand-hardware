@@ -1,0 +1,48 @@
+﻿|***************************|
+    REFERENCE INFORMATION    
+|***************************|
+ Reference No.1 out of 1 
+
+Reference:
+   TYPE   : plane
+
+Status   : in geometry
+
+
+Reference owner:
+ Model   :
+   NAME   : _A2_O_-__A_BASE_O_-_SUPPORT_MOU
+   TYPE   : Part
+ Feature :
+
+    FEATURE NUMBER       2
+    INTERNAL FEATURE ID  4
+    PARENTS = 2(#1) 
+    CHILDREN = 2870(#3) 2874(#4) 3097(#5) 3162(#6) 3164(#7) 3168(#8) 3172(#9) 
+              3174(#10) 3178(#11) 3182(#12) 3529(#13) 3184(#14) 3530(#15) 
+               3697(#16) 3640(#17) 3698(#18) 4298(#19) 4349(#20) 4409(#21) 
+               4411(#22) 4567(#23) 5046(#24) 5125(#25) 5127(#26) 4413(#27) 
+               4629(#28) 5183(#29) 5453(#30) 5487(#31) 5522(#32) 5570(#33) 
+               5645(#34) 
+
+
+ IMPORT FEATURE
+
+  NO.   ELEMENT NAME       INFO                                                 
+  ---   -------------      -------------                                        
+   1    Feature Name       Defined                                              
+   2    Location Method    Coord Sys                                            
+   3    Coordinate System  _A2_O_-__A_BASE_O_-_SUPPORT_MOU:F1(CSYS)             
+   4    Make Solid         Make Solid enabled                                   
+   5    Material           Add                                                  
+
+
+
+    FEATURE'S ENTITIES AND GEOMETRY ARE IN LAYER(S):
+
+    Quilt created by feature 2, model _A2_O_-__A_BASE_O_-_SUPPORT_MOU.
+      NONE - OPERATION = SHOWN
+
+    Solid geometry of part _A2_O_-__A_BASE_O_-_SUPPORT_MOU.
+      NONE - OPERATION = SHOWN
+
